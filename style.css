@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#main {
+    display: block;
+    max-width: 600px;
+    margin: auto;
+}
+
+#title {
+    text-align: center;
+    margin: 50px 0px 50px 0px;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+#img-caption {
+    font-size: 14px;
+    margin: 10px 0px 10px 0px;
+}
+
+#tribute-info li {
+    line-height: 30px;
+}
+
+#tribute-link {
+    color: #000;
+}
